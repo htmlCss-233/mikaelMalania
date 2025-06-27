@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+header {
+    background-color: #323232;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    text-decoration: none;
+    color: #DEDEDE;
+    font-family: "Manrope", sans-serif;
+    font-weight: bolder;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: start;
+    gap: 5px;
+    position: relative;
+    left: 20px;
+}
+
+.logo p {
+    font-size: 20px;
+    font-family: "Manrope", sans-serif;
+    font-weight: bolder;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    position: relative;
+    right: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #DEDEDE;
+    font-family: "Manrope", sans-serif;
+    font-weight: bold;
+
+}
+
+body {
+    background-color: #1A1A1A;
+}
+
+body {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.leftSide {
+
+}
+
+#hiText {
+    font-family: "Manrope", sans-serif;
+    font-weight: bolder;
+    font-size: 64px;
+    color: #DEDEDE;
+    width: 600px;
+}
+
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#helpText {
+    font-weight: 450;
+    color: #959595;
+    font-family: "Manrope", sans-serif;
+    font-size: 24px;
+    width: 490px;
+    position: relative;
+    bottom: 40px;
+}
+
+#emailLogo {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    background-color: #9D9D9D;
+    width: 400px;
+    height: 64px;
+    justify-content: center;
+    text-decoration: none;
+    border-radius: 5px;
+    position: relative;
+    bottom: 6px;
+}
+
+#emailLogo p {
+    font-family: "Manrope", sans-serif;
+    font-weight: 450;
+    color: #FFFFFF;
+    font-size: 18px;
+    position: relative;
+    bottom: 3px;
+}
+
+.upperPartWrapper {
+    position: relative;
+    top: 57px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* gap: 10px; */
+}
+
+#curlyGuyImage {
+    position: relative;
+    right: 20px;
+}
