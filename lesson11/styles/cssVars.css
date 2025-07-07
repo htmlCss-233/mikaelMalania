@@ -1,0 +1,16 @@
+:root {
+    --chveni_feri: #cdb832;
+    --textis_zoma: 24px;
+}
+
+#text1 {
+    color: var(--chveni_feri);
+}
+
+#text2 {
+    color: var(--chveni_feri);
+}
+
+#text3 {
+    color: var(--chveni_feri);
+} 
